@@ -27,11 +27,11 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 	•	DAX (Measures & KPIs)
 	•	Excel (Data Cleaning & Preparation)
 	•	Data Analysis & Storytelling
+	
+## 🎬 Netflix Cinematic Aesthetic
 
-
-# 📷 Netflix Logo
 <div align="center">
-<img src="https://images.unsplash.com/photo-1606813909353-4f5867cfb5dc?auto=format&w=800&q=80" width="600">
+  <img src="netflix_movie_bg.jpg" alt="Netflix Cinematic Background" width="800">
 </div>
 
 #If you find this project intersting,Feel free to star the repository.
