@@ -30,7 +30,6 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 
 
 # 📷 Netflix
-![Netflix Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f11b5dd7-da20-4176-b438-745ccf3211f2" />
-)
+![NETFLIX]("C:\Users\mohmm\Downloads\netflix-logo.avif")
 
-#If you find this project intersting,Feel free to star the repository
+#If you find this project intersting,Feel free to star the repository.
