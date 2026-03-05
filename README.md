@@ -29,7 +29,7 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 	•	Data Analysis & Storytelling
 
 
-# 📷 Netflix
+# 📷 Netflix Logo
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="150">
 </div>
