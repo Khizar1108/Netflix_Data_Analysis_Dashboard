@@ -29,6 +29,6 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 	•	Data Analysis & Storytelling
 	
 ## 🎬 Netflix Cinematic Aesthetic
-![netflix image]()
+![netflix image](https://github.com/Khizar1108/Netflix_Data_Analysis_Dashboard/blob/16544fc545ee4a7e90b53e04fe9911428e8023f9/netflix-logo.avif)
 
 #If you find this project intersting,Feel free to star the repository.
