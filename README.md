@@ -27,6 +27,6 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 
 
 # 📷 Dashboard Preview
-![Netflix Dashboard](your-image-file-name.png)
+![Netflix Dashboard](https://github.com/Khizar1108/Netflix_Data_Analysis_Dashboard/blob/09c33c97a0d61bec6ce8e5b85111b4c6dfbc6117/Netflix_analysis_dashboard.jpeg)
 
 #If you find this project intersting,Feel free to star the repository
