@@ -31,7 +31,7 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 
 # 📷 Netflix Logo
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="150">
+<img src="https://images.unsplash.com/photo-1606813909353-4f5867cfb5dc?auto=format&w=800&q=80" width="600">
 </div>
 
 #If you find this project intersting,Feel free to star the repository.
