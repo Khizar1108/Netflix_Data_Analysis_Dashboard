@@ -30,7 +30,7 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 
 
 # 📷 Netflix
-![NETFLIX](<div align="center">
+(<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="150">
 </div>)
 
