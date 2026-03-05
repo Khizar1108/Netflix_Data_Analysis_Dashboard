@@ -29,6 +29,6 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 	•	Data Analysis & Storytelling
 	
 ## 🎬 Netflix Cinematic Aesthetic
-![netflix image]("C:\Users\mohmm\Downloads\netflix-logo.avif")
+![netflix image]()
 
 #If you find this project intersting,Feel free to star the repository.
