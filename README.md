@@ -1,5 +1,8 @@
 # Netflix_Data_Analysis_Dashboard
 
+# 📷 Dashboard Preview
+![Netflix Dashboard](https://github.com/Khizar1108/Netflix_Data_Analysis_Dashboard/blob/09c33c97a0d61bec6ce8e5b85111b4c6dfbc6117/Netflix_analysis_dashboard.jpeg)
+
 # 📌 Project Overview
 
 This project is an interactive Netflix Data Analysis Dashboard built using Power BI to explore content trends, ratings, genres, and global distribution of shows.
@@ -26,7 +29,8 @@ The goal of this project is to demonstrate data cleaning, data modeling, DAX cal
 	•	Data Analysis & Storytelling
 
 
-# 📷 Dashboard Preview
-![Netflix Dashboard](https://github.com/Khizar1108/Netflix_Data_Analysis_Dashboard/blob/09c33c97a0d61bec6ce8e5b85111b4c6dfbc6117/Netflix_analysis_dashboard.jpeg)
+# 📷 Netflix
+![Netflix Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f11b5dd7-da20-4176-b438-745ccf3211f2" />
+)
 
 #If you find this project intersting,Feel free to star the repository
